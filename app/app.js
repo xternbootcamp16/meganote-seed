@@ -1,5 +1,5 @@
 (function() {
-  var app = angular.module('notely', [
+  var app = angular.module('meganote', [
     'ui.router'
   ]);
 
